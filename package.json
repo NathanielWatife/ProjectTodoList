@@ -1,0 +1,20 @@
+{
+  "name": "projecttodolist",
+  "version": "1.0.0",
+  "description": "TodoList for project building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanielWatife/ProjectTodoList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanielWatife/ProjectTodoList/issues"
+  },
+  "homepage": "https://github.com/NathanielWatife/ProjectTodoList#readme"
+}
